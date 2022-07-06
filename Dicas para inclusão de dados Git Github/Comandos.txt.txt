@@ -1,0 +1,11 @@
+##Abra o Git bush 
+
+git clone (mais o link)
+cd ( mais respositorio *que é o nome da pasta onde está salvo)
+Ctrl+L (Limpar)
+git status (verificar o status e atualizar o mesmo)
+git add . ou git add -a ( adcionar os arquivos )
+git commit -m "o titulo que quer colocar" ( commit para github)
+git push origin main ( enviar os dados para Github apos isso apenas aperta F5 )
+
+Link Dio Aula do Venilton FalvoJr: https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/e714fb1c-4990-4c47-99a5-d97703e40b4d
